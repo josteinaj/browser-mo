@@ -1,8 +1,7 @@
-## howler.js: Media Overlays
+## browser-mo.js: Media Overlays in your browser
 
-Media Overlay support (from the EPUB3 specification) added to web content using howler.js
+Media Overlays as defined in the [EPUB3 specification](http://idpf.org/epub/30/spec/epub30-mediaoverlays.html).
 
-howler.js is Copyright (c) 2013 James Simpson and GoldFire Studios, Inc.
-howler.mediaoverlay.js is Copyright (c) 2013 Jostein Austvik Jacobsen
+browser-mo.js is Copyright (c) 2013 Jostein Austvik Jacobsen
 
 Released under the MIT License.
